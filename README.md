@@ -20,3 +20,5 @@ then, each of the other services is executed and the request is made in postman 
 "quantity": 7,
 "cost": 5}
 ]}
+
+Documentation is done in javadocs
